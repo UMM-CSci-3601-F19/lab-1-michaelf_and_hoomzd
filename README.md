@@ -35,7 +35,7 @@ Remove this line from your `README.md` file. Replace the URL in the next subsect
 which should look something like this: http://umm-csci-3601.github.io/3601-lab1_HTML-CSS/ but will not be identical.
 
 #### Our Team's GitHub Pages URL
-http://umm-csci-3601.github.io/3601-lab1_HTML-CSS/
+https://umm-csci-3601-f19.github.io/lab-1-michaelf_and_hoomzd/
 
 #### Version Control Reminder
 Remember to practice good version control! New features should be developed in
