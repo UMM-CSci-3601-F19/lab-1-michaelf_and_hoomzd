@@ -11,53 +11,44 @@ body{
   background-image: url("LVPreme.png");
   padding: 30px;
     /*background-color: #aaaaaa;*/
-  display: flex;
+  display: flex; /* this is the flexbox model. It adds responsive design to its items */
   flex-direction: column;
-  align-items: unset;
+  align-items: unset; /* These next two properties unset the flex items */
 }
 
 .pslo-courses-container {
     padding: 10px 30px;
-    background-color: bisque;
+    background-color: gray;
     display: flex;
     flex-direction: column;
     font-family: "Abyssinica SIL";
-
-  border-radius: 25px;
-  padding: 20px;
-  border: 5px solid;
-  margin: 10px;
-
+    border-radius: 25px;
+    border: 5px solid;
+    margin: 10px;
 }
 .faculty-container{
   display: flex;
   flex-direction: column;
-  padding: 10px 30px;
+  padding: 10px 20px;
   font-family: "Abyssinica SIL";
   background-color: bisque;
   justify-content: center;
   align-items: center;
-
   border-radius: 25px;
-  padding: 20px;
   border: 5px solid;
   margin: 10px;
-
 }
 
 #main-title {
-
   color: black;
   background-color: #f9f7f6;
   font-family: "Abyssinica SIL";
   text-align: center;
   font-size: 4rem;
-
   border-radius: 5px;
   padding: 10px;
   border: 3px solid;
   margin: 10px;
-
 }
 
 #style ul {
@@ -83,7 +74,7 @@ body{
 
 /* Change the link background color to #000 (black) on hover */
 #style li a:hover {
-  background-color: #000;
+  background-color: #000; /*sets the background color to black*/
 }
 
 #style {

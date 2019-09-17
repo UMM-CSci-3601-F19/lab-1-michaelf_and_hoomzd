@@ -8,7 +8,8 @@ use float to make something locate itself on the right or left
 */
 
 body{
-  background-image: url("website template three.jpg");
+  background-image: url("website template three.jpg"); /*this is the first thing we did different.
+                                                         we used an image rather than a background color*/
     padding: 30px;
     display: flex;
     flex-direction: column;

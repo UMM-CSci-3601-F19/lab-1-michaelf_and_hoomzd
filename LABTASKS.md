@@ -2,20 +2,36 @@
 ## Summary
 Your task for this lab is to develop two different looks for a web page using different CSS without altering the HTML.
  - All of the formatting (including the positioning of elements in the page) must be done using CSS.
+ 
  - Do not alter the HTML.
-    - The _one_ exception to this rule is if you want to load Google Fonts in your HTML so they'll be available in your CSS. (There are ways to do this entirely in CSS, but the "standard" approach typically involves modifying the HTML.)
- - Be intentional and sparing with your use of absolute sizes for things like font and location. Your style sheet should make the web page look nice for both a phone and a computer screen, and your choices should not interfere with accessibility in obvious ways.
- - Be sure to follow the setup instructions in the [README.md](README.md) to set up GitHub pages (including changing the line in the `Running your project` section of the [README.md](README.md) to link to your team's GitHub pages page).
+    - The _one_ exception to this rule is if you want to load Google 
+    Fonts in your HTML so they'll be available in your CSS. 
+    (There are ways to do this entirely in CSS, but the "standard" approach typically involves modifying the HTML.)
+    
+ - Be intentional and sparing with your use of absolute sizes for things like font and location. 
+    Your style sheet should make the web page look nice for both a phone and a computer screen, 
+    and your choices should not interfere with accessibility in obvious ways.
+    
+ - Be sure to follow the setup instructions in the [README.md](README.md) to set up GitHub pages 
+    (including changing the line in the `Running your project` section of the [README.md](README.md) 
+    to link to your team's GitHub pages page).
 
 ## Technical Requirements
 Please read carefully the list of technical requirements below and follow it precisely.
 
-  - Your page must be viewable using the three different **external CSS files** included in your repository (one will be an example and you will alter the other two).
-  - Your **CSS must validate** using a [CSS validator](https://jigsaw.w3.org/css-validator/), except perhaps warnings about features not supported in all browsers.
-    - Pro tip: Some newer CSS features are not widely supported. If a CSS feature you use is not supported in some browsers, please clearly indicate which browsers support it and which ones don't.
+  - Your page must be viewable using the three different **external CSS files** included in your repository 
+    (one will be an example and you will alter the other two).
+    
+  - Your **CSS must validate** using a [CSS validator](https://jigsaw.w3.org/css-validator/), 
+    except perhaps warnings about features not supported in all browsers.
+    
+    - Pro tip: Some newer CSS features are not widely supported. 
+    If a CSS feature you use is not supported in some browsers, please clearly indicate which browsers support it and which ones don't.
+    
     - We've provided links to both the HTML validator and the CSS validator in the
     `Validation` section of the page. Both validate "out of the box", and you should
     make sure they continue to validate as you go through the lab.
+    
   - Your CSS must make the page **look reasonable and be relatively easy to navigate.** We will take points off for features that lead to a problematic user experience. Take care that your design avoids common pitfalls.
     - Avoid links that are hard to see.
     - Avoid unpleasant color combinations.
